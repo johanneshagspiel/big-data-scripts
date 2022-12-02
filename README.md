@@ -1,5 +1,7 @@
-<img src=img/apache_spark_logo.png alt="Apache Spark Logo" width="193" height="100">
-<img src=img/apache_flink_logo.png alt="Apache Flink Logo" width="204" height="100">
+<p float="left">
+  <img src=img/apache_spark_logo.png alt="Apache Spark Logo" width="193" height="100">
+  <img src=img/apache_flink_logo.png alt="Apache Flink Logo" width="204" height="100">
+</p>
 
 --------------------------------------------------------------------------------
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
