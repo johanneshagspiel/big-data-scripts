@@ -1,9 +1,10 @@
-<img src=img/apache_spark_logo.png alt="Apache Spark Logo" width="192" height="100">
+<img src=img/apache_spark_logo.png alt="Apache Spark Logo" width="193" height="100">
+<img src=img/apache_flink_logo.png alt="Apache Flink Logo" width="204" height="100">
 
 --------------------------------------------------------------------------------
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Top Language](https://img.shields.io/github/languages/top/johanneshagspiel/big-data-scripts
-)](https://github.com/johanneshagspiel/big-data-scripts/apache-spark)
+)](https://github.com/johanneshagspiel/big-data-scripts)
 [![Latest Release](https://img.shields.io/github/v/release/johanneshagspiel/big-data-scripts)](https://github.com/johanneshagspiel/big-data-scripts/releases/)
 
 # Big Data Scripts
@@ -39,7 +40,6 @@ The Apache Flink scripts cover a range of topics such as:
   - keyed and non-keyed windows
   - new `ProcessWindowFunction`
 
-
 ## Tools
 
 | Purpose                                                        | Name                                        |
@@ -52,11 +52,7 @@ The Apache Flink scripts cover a range of topics such as:
 It is assumed that both a [Java JDK](https://openjdk.org/) and an IDE such as [IntelliJ](https://www.jetbrains.com/idea/) are installed and that the users operating system is Windows.
 
 - Install the Scala support plugin for your IDE.
-- Import the corresponding subfolder of this repository as a Maven project and resolve all dependencies.
-
-## Contributors
-
-These scripts were created together with Saru.
+- Import the corresponding sub folder of this repository as a Maven project and resolve all dependencies.
 
 ## Licence
 
@@ -64,4 +60,4 @@ These Big Data scripts are published under the MIT licence, which can be found i
 
 ## References
 
-The logo was taken from [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png). 
+The Apache Spark logo was taken from [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png) and the Apache Flink logo from . 

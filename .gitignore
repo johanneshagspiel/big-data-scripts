@@ -1,3 +1,5 @@
 target
 apache-spark/.idea
+apache-flink/.idea
 *.iml
+.idea
